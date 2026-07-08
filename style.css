@@ -101,15 +101,15 @@ body {
     margin-bottom: 40px;
 }
 
-.cards {
+.cards-container {
     display: flex;
     justify-content: center;
     gap: 32px;
-    flex-wrap: wrap;
 }
 
 .card-item {
     width: 150px;
+    text-align: center;
 }
 
 .card-box {

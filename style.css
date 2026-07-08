@@ -185,7 +185,13 @@ body {
     cursor: pointer;
 }
 
-
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 30px;
+    text-align: center;
+    font-size: 16px;
+}
 
 
 
